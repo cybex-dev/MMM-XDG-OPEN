@@ -1,0 +1,10 @@
+{
+  "name": "MMM-Xdg-Open",
+  "version": "0.0.1",
+  "description": "Emulated XDG-Open on Linux Systems using the Notification Mechanism with a `XDG-OPEN` notification",
+  "author": "Charles Dyason",
+  "dependencies": {
+    "open": "^7.0.0",
+    "is-ip": "^3.1.0"
+  }
+}
